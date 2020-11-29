@@ -32,6 +32,7 @@ To be added.
 
 - [embedded.fm](https://embedded.fm/)
 - [The Spark Gap](http://thesparkgap.net/)
+- [On The Metal](https://oxide.computer/podcast/)
 
 ## Reddit
 
