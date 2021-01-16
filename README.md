@@ -3,7 +3,14 @@ A list of references relevant to embedded systems.
 
 # Table of Contents
 
-To be added.
+- [Blogs](#blogs)
+- [Books](#books)
+- [Frameworks](#frameworks)
+- [Interview Q&A](#interview-qa)
+- [Podcasts](#podcasts)
+- [Reddit](#reddit)
+- [Websites](#websites)
+- [YouTube Channels](#youtube-channels)
 
 ## Blogs
 
@@ -15,6 +22,7 @@ To be added.
 - [Interrupt](https://interrupt.memfault.com/blog/)
 - [Lup Yuen Lee](https://medium.com/@ly.lee)
 - [Stupid Projects](https://www.stupid-projects.com/)
+- [Stargirl Flowers](https://blog.thea.codes/)
 
 ## Books
 
