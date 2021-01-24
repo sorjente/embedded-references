@@ -23,6 +23,7 @@ A list of references relevant to embedded systems.
 - [Lup Yuen Lee](https://medium.com/@ly.lee)
 - [Stupid Projects](https://www.stupid-projects.com/)
 - [Stargirl Flowers](https://blog.thea.codes/)
+- [MCU on Eclipse](https://mcuoneclipse.com/)
 
 ## Books
 
@@ -58,3 +59,4 @@ A list of references relevant to embedded systems.
 - [Fastbit Embedded Brain Academy](https://www.youtube.com/channel/UCa1REBV9hyrzGp2mjJCagBg)
 - [Jacob Beningo](https://www.youtube.com/channel/UC9k8GahBTE0IVJxOsL4WhOA)
 - [Quantum Leaps](https://www.youtube.com/channel/UCMGXFEew8I6gzjg3tWen4Gw)
+- [EmbeddedCraft](https://www.youtube.com/channel/UCgGeG5UGvzGkTFbEbYWGeSA)
